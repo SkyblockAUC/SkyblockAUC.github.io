@@ -1,3 +1,9 @@
+.contenedor {
+  width:80%;
+  max-width:1000px;
+}
+
+
 .rectangulo {
   width: 1518px;
   height: ;
@@ -70,4 +76,17 @@ nav a{
   border-style: solid;
   position: absolute;
   right: 50px;
+  
+}
+
+.bin5{
+  background-color: ;
+  width: 300px;
+  height: 230px;
+  border: black;
+  border-style: solid;
+  position: absolute;
+  right: 50px;
+  bottom: -700px;
+  
 }
