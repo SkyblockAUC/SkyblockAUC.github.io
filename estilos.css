@@ -1,0 +1,63 @@
+.rectangulo {
+  width: 1518px;
+  height: ;
+  background: #343a40;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  background-color: #343a40;
+  padding: 10px;
+  align-items: center;
+  
+}
+
+body{
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+nav a{
+  font-weight: 600;
+  padding-right: 10px;
+  font-family: arial;
+}
+
+.bin1{
+  background-color: ;
+  width: 300px;
+  height: 230px;
+  border: black;
+  border-style: solid;
+  position: absolute;
+  right: 1150px;
+}
+
+.bin2{
+  background-color: ;
+  width: 300px;
+  height: 230px;
+  border: black;
+  border-style: solid;
+  position: absolute;
+  right: 800px;
+}
+
+.bin3{
+  background-color: ;
+  width: 300px;
+  height: 230px;
+  border: black;
+  border-style: solid;
+  position: absolute;
+  right: 450px;
+}
