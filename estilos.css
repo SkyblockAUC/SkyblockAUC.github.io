@@ -59,5 +59,15 @@ nav a{
   border: black;
   border-style: solid;
   position: absolute;
-  right: 450px;
+  right: 400px;
+}
+
+.bin4{
+  background-color: ;
+  width: 300px;
+  height: 230px;
+  border: black;
+  border-style: solid;
+  position: absolute;
+  right: 50px;
 }
