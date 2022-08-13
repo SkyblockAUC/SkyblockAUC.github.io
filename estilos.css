@@ -17,22 +17,22 @@ header {
   
 }
 
-body{
+body {
   margin: 0;
 }
 
-a{
+a {
   text-decoration: none;
   color: white;
 }
 
-nav a{
+nav a {
   font-weight: 600;
   padding-right: 10px;
   font-family: arial;
 }
 
-.bin1{
+.bin1 {
   background-color: ;
   width: 300px;
   height: 230px;
@@ -42,7 +42,7 @@ nav a{
   right: 1150px;
 }
 
-.bin2{
+.bin2 {
   background-color: ;
   width: 300px;
   height: 230px;
@@ -52,7 +52,7 @@ nav a{
   right: 800px;
 }
 
-.bin3{
+.bin3 {
   background-color: ;
   width: 300px;
   height: 230px;
